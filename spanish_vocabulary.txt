@@ -1,3 +1,6 @@
 niebla, noun, international, non-rude, Translation: fog, Example: La niebla cubri'ta todo el paes., The fog jovered the whole park.,
+
 nieblar,ref,international,non-rude,Translation: to become foggy, Example: El rio normalmente sole nievlar en la manana., The river commonly becomes foggy in the morning.,
-nieblado, adjuctive, international, non-rude, Translation: foggy (especially affected), Example: Un ambiente nieblado nos de jugar., An emerging foggy came upon us unexpectedly.,,
+
+nieblado, adjuctive, international, non-rude, Translation: foggy (especially affected), Example: Un ambiente nieblado nos de jugar., An emerging foggy came upon us unexpectedly.,
+
