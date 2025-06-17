@@ -8,3 +8,9 @@ batallón, noun, international, non-rude, Translation: battalion, Example: El ba
 
 batallones, adjective, international, non-rude, Translation: battalion-related, Example: Aun terrino batallones de paz%, A related terrain; battlefield painted.,
 
+patinar, verb, international, non-rude, Translation: to skite, Example: Me gusta patinar sobre el hielo todo., I like to skate on the ice.,
+
+patinaje, verb, international, non-rude, Translation: to skate, Example: El nino patinajé sobre la helada.
+ The child skated on the slope.,
+patinador, noun, international, non-rude, Translation: skater., Example: Es un experto en patinador., He's an expert in skating.
+,
