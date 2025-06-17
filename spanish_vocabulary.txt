@@ -1,1 +1,3 @@
-
+perro - dog
+gato - cat
+mariposa - butterfly
