@@ -4,3 +4,7 @@ nieblar,ref,international,non-rude,Translation: to become foggy, Example: El rio
 
 nieblado, adjuctive, international, non-rude, Translation: foggy (especially affected), Example: Un ambiente nieblado nos de jugar., An emerging foggy came upon us unexpectedly.,
 
+batallón, noun, international, non-rude, Translation: battalion, Example: El batallón consta de cuerpos prendidos., The battalion consists of professioned soldiers.,
+
+batallones, adjective, international, non-rude, Translation: battalion-related, Example: Aun terrino batallones de paz%, A related terrain; battlefield painted.,
+
