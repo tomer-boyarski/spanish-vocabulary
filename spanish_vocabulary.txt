@@ -14,3 +14,8 @@ patinaje, verb, international, non-rude, Translation: to skate, Example: El nino
  The child skated on the slope.,
 patinador, noun, international, non-rude, Translation: skater., Example: Es un experto en patinador., He's an expert in skating.
 ,
+arraigo, noun, international, non-rude, Translation: rooting, Example: El migrante consiguio un arraigo en el paes., The migrant fostered a root in the park.,
+arraigar, verb, international, non-rude, Translation: to take root, Example: Los campesinos tratan de arraigar el terreno., The fieldworkers try to root the land.
+,
+arraigado, adjective, international, non-rude, Translation: rooted, Example: El systema arraigado las rañces culturales de la zona., The rooted system the cultural roots of the region.,
+arraigada, adjective, international, non-rude, Translation: rooted with roots (fem),Example: La cultura arraigada es de las pequeías antiguas. , The rooted wthh roots culture is one of the/oldest in the world.,
